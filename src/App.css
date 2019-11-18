@@ -1,22 +1,21 @@
-.App {
+/* .App {
+  text-align: left;
+} */
+
+.top-container {
+  text-align: left;
+  border: 1px solid #ddd;
+  color: rgb(83, 80, 80);
+  background-color: rgb(224, 220, 220);
+}
+
+.top-container h3 {
+  margin-left: 50px;
+}
+
+.footer {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
+  color: rgb(83, 80, 80);
+  border: 1px solid #ddd;
+  background-color: chartreuse;
 }
